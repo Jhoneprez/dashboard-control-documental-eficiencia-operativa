@@ -99,6 +99,6 @@ El flujo de ingresos del sistema documental muestra un comportamiento altamente 
 ## 🎨 7. Interfaz y Visualización Profesional
 El diseño del lienzo se configuró bajo una estructura de rejilla (*Grid Design*) con un fondo `#F3F4F6` para maximizar la legibilidad y el contraste entre secciones clave:
 *   **Banner Superior y Filtros:** Incorpora el título institucional y menús desplegables para la selección dinámica de Año, Mes y Tipología de Documento, optimizando el espacio visual.
-*   **Bloque Ejecutivo de KPIs (Fila 1):** Cuatro tarjetas numéricas de alto impacto alineadas horizontalmente que resumen la salud de la operación. Se utilizó formato condicional (Color Naranja) para destacar la métrica de *Docs Pendientes*.
+*   **Bloque Ejecutivo de KPIs (Fila 1):** Cuatro tarjetas numéricas de alto impacto alineadas horizontalmente que resumen la salud de la operación.
 *   **Sección de Distribución de Volumen (Fila 2):** Un gráfico de barras horizontales para comparar la carga entre departamentos y un gráfico de columnas apiladas para auditar la tendencia mensual de documentos ingresados segmentados por colores según su estado.
 *   **Sección de Diagnóstico Avanzado (Fila 3):** Un gráfico de rendimiento de días por área y una **Matriz de Alarma Operativa** configurada con un formato condicional de gradiente (Verde a Rojo) sobre el cruce de departamentos y tipos de documentos.
