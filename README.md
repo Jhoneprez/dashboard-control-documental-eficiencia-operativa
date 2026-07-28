@@ -2,7 +2,7 @@
 
 <!-- IMAGEN DEL DASHBOARD -->
 <p align="center">
-  <img src="./imagenes/Dashboard.png" alt="Control Documental Dashboard" width="100%">
+  <img src="./imagenes/Dashboard.png" alt="Control Documental Dashboard" width="90%">
 </p>
 
 ## 📄 1. Caso de Negocio y Planteamiento del Problema
